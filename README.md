@@ -1,4 +1,4 @@
-# RETRIEVR
+# Xplane
 
 > **Code-Aware Retrieval-Augmented Generation (RAG) & Semantic Code Explainer**  
 > Powered by AST parsing (Tree-sitter), dense embeddings (SentenceTransformers), vector search (Qdrant), and LLM reasoning (Google Gemini).

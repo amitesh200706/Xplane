@@ -1,0 +1,13 @@
+fastapi==0.141.1
+graphviz==0.21
+protobuf==7.36.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+qdrant_client==1.19.0
+sentence_transformers==5.6.1
+tree_sitter==0.25.2
+tree_sitter_python==0.25.0
+uvicorn==0.52.4
+python-multipart
+pytest-shutil
+google-genai

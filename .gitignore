@@ -1,0 +1,11 @@
+__pycache__/
+parser/tree_render.py
+parser/experimentation.py
+parser/tree.dot
+parser/tree.png
+JSON/chunks.json
+vector_db/
+.env
+venv/
+app/frontend/node_modules/
+.kombai/
